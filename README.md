@@ -7,7 +7,7 @@
 
 
 ### Tools & Technology:
-```
+```yaml
 {
   "backend": ["node.js", "Java" , "Spring boot" , "Python"],    
   "frontend": {
