@@ -6,8 +6,11 @@
 - [ ] 🥅 2024 Goals: Get an amazing Fulltime Job !!
 
 👨‍💻 All of my projects are available at https://phaltankarvrushali.github.io
-💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, System Design, Programming
+
+💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, System Design, Programming\
+
 🌱 I’m currently learning System Design, Low Level Design
+
 📫 How to reach me phaltankar.v@northeastern.edu
 
 <h3 align="center">Languages and Tools:</h3>
