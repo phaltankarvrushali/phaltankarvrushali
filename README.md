@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Tools & Technology:
 ```yaml
 {
-  "backend": ["node.js", "Java" , "Spring boot" , "Python"],    
+  "backend": ["Java" , "NodeJS" , "Spring boot" , "Python"],    
   "frontend": {
     "framework/library": "react.js",
     "ui": ["html", "css","javascript"]
