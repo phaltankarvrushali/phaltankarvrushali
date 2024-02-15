@@ -5,9 +5,9 @@
 - [ ] 🌱 Currently working on Spring boot, NodeJS, and AWS DevOps Projects. 
 - [ ] 🥅 2024 Goals: Get an amazing Fulltime Job !!
 
-👨‍💻 All my projects are available at [https://phaltankarvrushali.github.io](https://github.com/phaltankarvrushali?tab=repositories)
+👩‍💻 All my projects are available at [https://phaltankarvrushali.github.io](https://github.com/phaltankarvrushali?tab=repositories)
 
-👨‍💻 View my Portfolio at https://phaltankarvrushali.github.io/
+📌 View my Portfolio at https://phaltankarvrushali.github.io/
 
 💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, System Design, Programming\
 
