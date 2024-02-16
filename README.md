@@ -7,8 +7,6 @@
 
 👩‍💻 All my projects are available at https://github.com/phaltankarvrushali?tab=repositories
 
-📌 View my Portfolio at https://phaltankarvrushali.github.io/
-
 💬 Ask me about Software Engineering ,DevOps Engineering, Cloud Engineering, System Design, Programming\
 
 🌱 I’m currently learning System Design, Low Level Design
